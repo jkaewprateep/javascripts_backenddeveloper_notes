@@ -93,7 +93,7 @@
 
 🧸💬 Simple question is someone asking me how ```GitHub provides virtual environments services```, here it is but you need to do it the correct way to deploy with deployment scripts. GitHub provides many services and this method they are working as docker same as Kubenentes, Anaconda, CodeEngine, VMware, and etc. </br>
 🐐💬 ```Development process including selection of library and working environments```, there are multiple versions of appliation that can have multiple versions of running environments and they need some maintenance. ```Some mistakes and leaks of information to untrusted people can lead the way for hackers```, they can post some library required for application, make them easy, or just simplify a method. Once the programmer deploys the codes and creates deployment scripts this library or program needs to be maintenance because after running they are not monitored inside of the cabinet. </br>
-``` 🐯💬 One of trusted-=untrsuted source scenarios ``` .
+``` 🐯💬 One of trusted-untrsuted source scenarios ``` .
 
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/req-res_backend.png">
