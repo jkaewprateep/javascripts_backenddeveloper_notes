@@ -72,6 +72,8 @@
     <b> Database search | Database collections </b> </br>
 </p>
 
+[MySQL advance](https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/README.md#meta-advanced-mysql-topics---notes)
+
 ## 🧸💬 Pagination
 
 👧💬 🎈 ```Pagination is the accessibility of items``` and their property as inserted, updated, and unique. Using a rational database you need to create a ```store procedure```, or ```prepare statement``` or ```program``` to work with complex query records if you design on ```singular table with a control ID for each item in database rows```. No-SQL database can work on this issue with ```fast development time``` . </br>
