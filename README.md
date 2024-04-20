@@ -35,6 +35,14 @@
     <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
 </p>
 
+## 🧸💬 Database
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/database.png">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/database_collections.png"> </br>
+    <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
+</p>
+
 ## 🧸💬 Pagination
 
 <p align="center" width="100%">
