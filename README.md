@@ -15,6 +15,7 @@
 
 👧💬 🎈 Browsing catalog from a deployed web application and there are 3 parts front-end interface, backend interface, and database. Populate items in specific search items parameters into the grid and display them as card items on the front-end interfaces container drilled down of each item interaction for its detail display and can be updated. </br>
 🦭💬 JavaScript language is Java language development for web applications, it is specific to methods, controls, integration methods, and security. Do not judge by name it creates tiny and specific for safe of method interactions. </br>
+🦭💬 These requirements depend on customer and system design examples SpringBoot framework is one of Java and programming development platforms, Django is a multi-language programming platform, Java EE for client development, DotNet frameworks for Microsoft specific purpose development platform, C++ distribution is compliers and requires C++ components, Python Learning environment is Python-specific simulation learning and GUI platform, Simulink MATLAB is system simulation platform, and many of development platform they build we can work with our requirements. </br>
 
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/Catalogue%20item%20and%20people.png">
