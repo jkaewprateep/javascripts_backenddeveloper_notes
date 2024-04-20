@@ -9,3 +9,12 @@
     <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
+
+
+## 🧸💬 Directory from Javascript project and docker online deployment
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/Catalogue%20item%20and%20people.png">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/Catalogue%20detail.png"> </br>
+    <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
+</p>
