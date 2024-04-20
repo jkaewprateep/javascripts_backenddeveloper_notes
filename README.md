@@ -88,6 +88,9 @@
     <b> Call Item update | Items added </b> </br>
 </p>
 
+[REST API](https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/README.md#meta-advanced-mysql-topics---notes) [/br]
+[Text data mining](https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python/blob/main/README.md) 
+
 ## 🧸💬 Integrated parameters
 
 🐨🎁🎵🎶 Code engine allowed to instant deployment of a web application for ```secured code running environments```, see the update message response can control and ```network route to priority database```. There is multiple access prevention they can perform ```tracking by attaching some unique values or remark methods```. Update of ```aware IP address to server communication list``` for tracking with different level and ```web application versions```, safe actions are performed on specific versions of web application and secured web can submit multiple versions of web applications but webmasters think that is time spending for this method response they select to use ```networks response``` that is easier but ```simple analyze methods```. There are more response policies and this is beyond the tools we are using because they are police ```💃( 👩‍🏫 )💬 We are working we have money to fight with hackers do prohibited actions for money to win in this wars``` . </br>
