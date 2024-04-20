@@ -43,7 +43,7 @@
 
 ## 🧸💬 Login
 
-🐑💬 ➰ Login methods with the same clientID or different expected clientID depend on the method of use because of application need hash item number of a unique number for input as one of the authentication parameters, login API works on this in the background processes by communicationID, UUID, database login time and etc. In some attention logins, they had different clientID but the use of passwords was generated during the negotiation process by manual call ```onetime password``` . </br>
+🐑💬 ➰ Login methods with the same clientID or different expected clientID depend on the method of use because of application need ```hash item number``` of a ```unique number``` for input as one of the authentication parameters, login API works on this in the ```background processes``` by ```communicationID```, ```UUID```, ```database login time``` and etc. In some attention logins, they had different clientID but the use of passwords was generated during the negotiation process by manual call ```onetime password``` . </br>
 
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/7-login.png">
