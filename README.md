@@ -47,6 +47,8 @@
 🦭💬 There are multiple authentication libraries used for authentication with different standards can settings such as ```jwt``` as in this project, we use both ```wildcards standards``` and web secure communication encryption and ```stage communication technology``` for communication to save the number of requests and security. </br>
 🐐💬 Before and After login should be notifications or significant see of ```display result and identification``` because of in simple method of screen capture can authentication identity as a different account or mistake performed actions on an unlocked account create some ```information leaks```. This method is simple but has a lot of effects on the ```Internet Cafe era``` until the government challenges new hackers from students by opening secured Internet Cafe shops and many of policy. ```🐱💬 Not to be sad students need to grow in a good way and support``` . </br>
 
+🐨🎁🎵🎶 One technique calls ```re-direct message``` because of login success requirement only informs information to the client or target client for correct login action and ```response with uniqueID```, some appliation are trapped by rerouting of the message by the ```virtual router and intercepted``` with appliation for re-used of the uniqueID for their ```simulation actions application``` . </br>
+
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/7-login.png">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/deployed_loggedin.png"> </br>
