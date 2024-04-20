@@ -32,7 +32,7 @@
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/7-login.png">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/deployed_loggedin.png"> </br>
-    <b> Call Registration | Fronend interface </b> </br>
+    <b> Call Login | Fronend interface </b> </br>
 </p>
 
 ## 🧸💬 Database
