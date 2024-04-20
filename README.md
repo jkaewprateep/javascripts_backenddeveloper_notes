@@ -97,6 +97,8 @@
     <b> Message response | Browse catalogue </b> </br>
 </p>
 
+[Class implementation](https://github.com/jkaewprateep/Class_inheritances?tab=readme-ov-file#-agent-queue-class-implementation)
+
 ## 🧸💬 Deployment
 
 🧸💬 Simple question is someone asking me how ```GitHub provides virtual environments services```, here it is but you need to do it the correct way to deploy with deployment scripts. GitHub provides many services and this method they are working as docker same as Kubenentes, Anaconda, CodeEngine, VMware, and etc. </br>
