@@ -26,3 +26,19 @@
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/register_success.png"> </br>
     <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
 </p>
+
+## 🧸💬 Login
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/7-login.png">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/deployed_loggedin.png"> </br>
+    <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
+</p>
+
+## 🧸💬 Pagination
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/8-reviewadded.png">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/pagination.png"> </br>
+    <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
+</p>
