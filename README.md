@@ -81,6 +81,8 @@
 
 ## 🧸💬 Integrated parameters
 
+🐨🎁🎵🎶 Code engine allowed to instant deployment of a web application for secured code running environments, see the update message response can control and network route to priority database. There is multiple access prevention they can perform tracking by attaching some unique values or remark methods. Update of aware IP address to server communication list for tracking with different level and web application versions, safe actions are performed on specific versions of web application and secured web can submit multiple versions of web applications but webmasters think that is time spending for this method response they select to use networks response that is easier but simple analyze methods. There are more response policies and this is beyond of the tools we are using because they are police ```💃( 👩‍🏫 )💬 We are working we have money to fight with hackers do prohibited actions for money to win in this wars``` . <//br>
+
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/Add-item.png">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/deployed_search_item.png"> </br>
