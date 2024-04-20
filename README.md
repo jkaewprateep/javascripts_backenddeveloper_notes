@@ -91,6 +91,8 @@
 
 ## 🧸💬 Deployment
 
+🧸💬 Simple question is someone asking me how ```GitHub provides virtual environments services```, here it is but you need to do it the correct way to deploy with deployment scripts. GitHub provides many services and this method they are working as docker same as Kubenentes, Anaconda, CodeEngine, VMware, and etc. </br>
+
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/req-res_backend.png">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/main_yaml.png"> </br>
