@@ -105,6 +105,6 @@
 
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/14.png">
-    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/15.png"> </br>
+    <img width="27.5%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/15.png"> </br>
     <b> 🥺💬 รับจ้างเขียน functions </b> </br>
 </p>
