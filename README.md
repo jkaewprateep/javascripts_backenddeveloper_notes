@@ -27,6 +27,8 @@
     <b> Catalogue page | Item detail page </b> </br>
 </p>
 
+[Survey items document](https://github.com/jkaewprateep/attention_in_work?tab=readme-ov-file#-it-surveys-document)
+
 ## 🧸💬 Registration
 
 🐑💬 ➰ Registration method, multiple standards need to be followed but it is programming that can be created for customer requirements. The standard method is using ```GET HTTP request``` with ```clientID``` and some ```unique parameters``` for requests for ```sessionID``` and ```hash item``` / ```hash key``` . </br>
@@ -41,6 +43,8 @@
     <b> Call Registration | Fronend interface </b> </br>
 </p>
 
+[Event Listener and communication interfaces](https://github.com/jkaewprateep/javascripts_vs_node-js?tab=readme-ov-file#similarity-and-differentiation-of-javascript-and-nodejs-with-django-on-nodejs--javascript-programming-essentials-)
+
 ## 🧸💬 Login
 
 🐑💬 ➰ Login methods with the same clientID or different expected clientID depend on the method of use because of application need ```hash item number``` of a ```unique number``` for input as one of the authentication parameters, login API works on this in the ```background processes``` by ```communicationID```, ```UUID```, ```database login time``` and etc. In some attention logins, they had different clientID but the use of passwords was generated during the negotiation process by manual call ```onetime password``` . </br>
@@ -54,6 +58,8 @@
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/deployed_loggedin.png"> </br>
     <b> Call Login | Fronend interface </b> </br>
 </p>
+
+[Login Authentication sample](https://github.com/jkaewprateep/fakes_evidence_scenarios?tab=readme-ov-file#-confirmation-messages-as-vending-machine-or-public-exchange-machine)
 
 ## 🧸💬 Database
 
