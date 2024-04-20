@@ -88,7 +88,7 @@
     <b> Call Item update | Items added </b> </br>
 </p>
 
-[REST API](https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/README.md#meta-advanced-mysql-topics---notes) [/br]
+[REST API](https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/README.md#meta-advanced-mysql-topics---notes) </br>
 [Text data mining](https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python/blob/main/README.md) 
 
 ## 🧸💬 Integrated parameters
