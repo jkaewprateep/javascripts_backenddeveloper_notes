@@ -58,6 +58,7 @@
 ## 🧸💬 Database
 
 👧💬 🎈 In an application that needs to ```start with a simple method``` of database design you can use MongoDB, the ```migration process can be performed``` to a relational database or using both systems for spatial domain items, objects information, and tabular records. </br>
+🐑💬 ➰ There is MongoDB and ```Python library``` but working with some development platforms you need to create or update some codes for datatable adaptors, read, write, update, find, and ```required methods``` for working with some specific database and the same as you build a custom ```dataset``` in TensorFlow. In this way, you can use a ```secured communication``` method for Oracle 21c., working with ```.json query``` and ```file``` as d```atabase object``` . ```🦭💬 Also image in .json``` </br>
 
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/database.png">
