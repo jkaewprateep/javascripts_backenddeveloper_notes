@@ -68,6 +68,8 @@
 
 ## 🧸💬 Pagination
 
+👧💬 🎈 ```Pagination is the accessibility of items``` and their property as inserted, updated, and unique. Using a rational database you need to create a ```store procedure```, or ```prepare statement``` or ```program``` to work with complex query records if you design on ```singular table with a control ID for each item in database rows```. No-SQL database can work on this issue with ```fast development time``` . </br>
+
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/8-reviewadded.png">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/pagination.png"> </br>
