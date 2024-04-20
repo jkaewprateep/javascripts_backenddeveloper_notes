@@ -29,6 +29,8 @@
 
 ## 🧸💬 Registration
 
+🐑💬 ➰ Registration method, multiple standards need to be followed but it is programming that can be created for customer requirements. The standard method is using ```GET HTTP request``` with ```clientID``` and some ```unique parameters``` for requests for ```sessionID``` and ```hash item``` / ```hash key``` . </br>
+
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/Register_backend.png">
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/register_success.png"> </br>
