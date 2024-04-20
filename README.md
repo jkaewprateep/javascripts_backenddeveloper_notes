@@ -18,3 +18,11 @@
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/Catalogue%20detail.png"> </br>
     <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
 </p>
+
+## 🧸💬 Registration
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/Register_backend.png">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/register_success.png"> </br>
+    <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
+</p>
