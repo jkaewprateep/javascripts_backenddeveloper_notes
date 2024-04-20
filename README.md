@@ -42,3 +42,19 @@
     <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/pagination.png"> </br>
     <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
 </p>
+
+## 🧸💬 Integrated parameters
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/Add-item.png">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/deployed_search_item.png"> </br>
+    <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
+</p>
+
+## 🧸💬 Deployment
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/req-res_backend.png">
+    <img width="30%" src="https://github.com/jkaewprateep/javascripts_backenddeveloper_notes/blob/main/main_yaml.png"> </br>
+    <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
+</p>
